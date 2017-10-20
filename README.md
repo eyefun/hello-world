@@ -1,2 +1,4 @@
 # hello-world
-Dit is een eerste test van Eyefun
+Hi all,
+
+Wat een ingewikkeld gedoe, zo'n eerste kennismaking...
